@@ -1,2 +1,2 @@
-0 CUP
-1 MOUSE
+0 odung
+1 gwag

@@ -12,7 +12,7 @@ model = load_model('keras_model.h5', compile=False)
 # Load the labels
 class_names = open('labels.txt', 'r').readlines()
 
-st.header('마스크 판별기')
+st.header('오둥이 판별기')
 # Create the array of the right shape to feed into the keras model
 # The 'length' or number of images you can put into the array is
 # determined by the first position in the shape tuple, in this case 1.
